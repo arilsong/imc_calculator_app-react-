@@ -48,6 +48,12 @@ const styles = StyleSheet.create({
     tectButtonCalculator: {
         fontSize: 15,
         color: "#fff"
+    },
+    errorMessage: {
+        fontSize: 12,
+        color: "red",
+        fontWeight: "bold",
+        paddingLeft: 20,
     }
   });
 
